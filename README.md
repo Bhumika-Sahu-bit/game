@@ -26,8 +26,7 @@ CSS3 – Styling and layout
 JavaScript – Game logic and interactions
 
 📸 Screenshots
-
-
+<img width="1121" height="874" alt="Screenshot 2026-03-18 204209" src="https://github.com/user-attachments/assets/e9ccbd74-1e64-4cd6-8e32-deee2601f999" />
 
 Gameplay
 
